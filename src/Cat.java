@@ -28,6 +28,13 @@ public class Cat {
 		Graphics2D g2 = (Graphics2D) g;
 		int x=catX;
 		int y=catY;
+		//place the text above the 'cat'
+		
+			// Meow text appears below cat head, +10 places below 
+			// so it doesn't overlap the drawing
+			//The cat will no longer meow, Long live the dog over lords
+		g2.drawString("BORK", catX, catY);	
+
 		// Draw the head
 		g2.setColor(Color.black);
 		g2.fillOval(x, y, HEAD_DIMENSION, HEAD_DIMENSION);
@@ -44,11 +51,7 @@ public class Cat {
 		y = catY + MOUTH_Y;
 		g2.fillOval(x, y, MOUTH_WIDTH, MOUTH_HEIGHT);
 		g2.setColor(Color.black);
-		// Meow text appears below cat head, +10 places below 
-		// so it doesn't overlap the drawing
-		//The cat will no longer meow, Long live the dog over lords
 		
-		//added a body and removed the bork
 		g2.fillOval(x - 35, y + 10, HEAD_DIMENSION, HEAD_DIMENSION + 50);
 	}
 }
