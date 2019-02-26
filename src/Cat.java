@@ -44,6 +44,7 @@ public class Cat {
 		g2.setColor(Color.black);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
+		//The cat will no longer meow, Long live the dog over lords
 		g2.drawString("BORK", catX, catY+HEAD_DIMENSION+10);	
 	}
 }
