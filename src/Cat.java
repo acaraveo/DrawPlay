@@ -1,3 +1,5 @@
+// @author Nicholas Carnival
+// @author Alejandro Caraveo
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;

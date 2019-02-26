@@ -1,3 +1,9 @@
+commit e90217301c5d3627b8685d5fc61b7a03d295fd18
+Author: Nicholas Carnival <ncarnival2@yahoo.com>
+Date:   Tue Feb 26 16:43:18 2019 -0700
+
+    added the git log
+
 commit 2054f6ac00db6c1bd9ef820d6da278d81895f5b1
 Author: Nicholas Carnival <ncarnival2@yahoo.com>
 Date:   Tue Feb 26 16:39:50 2019 -0700
