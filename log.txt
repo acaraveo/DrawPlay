@@ -1,0 +1,47 @@
+commit 2054f6ac00db6c1bd9ef820d6da278d81895f5b1
+Author: Nicholas Carnival <ncarnival2@yahoo.com>
+Date:   Tue Feb 26 16:39:50 2019 -0700
+
+    added 'BORK' above the 'cat'
+
+commit 439d2f4304ad7eafe15bdc91d013262dcdabc0b4
+Author: Nicholas Carnival <ncarnival2@yahoo.com>
+Date:   Tue Feb 26 16:34:01 2019 -0700
+
+    made the cat look like a penguin
+
+commit 90e74e72425382a771ce80ae0d27947b0d106a35
+Author: Alex <acaraveo@mymail.mines.edu>
+Date:   Tue Feb 26 09:34:33 2019 -0700
+
+    Changed cat back to original cat, moved back into proper hole, added cats so original could have friends, removed them since he wasnt being friendly
+
+commit 88b3cb6ee98c7eb96b741bc9191b89ad9cd2902e
+Author: Alex <acaraveo@mymail.mines.edu>
+Date:   Tue Feb 26 09:28:45 2019 -0700
+
+    Added more comments and updated the cat size
+
+commit 54cd899b0c848936137fe36a9a0da6209b847937
+Author: Nicholas Carnival <ncarnival2@yahoo.com>
+Date:   Mon Feb 25 16:13:57 2019 -0700
+
+    blue eyes red mouth
+
+commit 27b6e007c59e5e8be206fc1b9e467c5186298678
+Author: Nicholas Carnival <ncarnival2@yahoo.com>
+Date:   Mon Feb 25 16:06:05 2019 -0700
+
+    updated gitignore
+
+commit a4e10e90fa1bf9930d93235e1702833efaed5f9d
+Author: Nicholas Carnival <ncarnival2@yahoo.com>
+Date:   Mon Feb 25 16:01:56 2019 -0700
+
+    added src and bin
+
+commit 53a672869aac09519db42f486d0382f5d6ac3ffa
+Author: acaraveo <42612071+acaraveo@users.noreply.github.com>
+Date:   Thu Feb 21 11:15:03 2019 -0700
+
+    Initial commit
